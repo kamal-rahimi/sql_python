@@ -1,1 +1,1 @@
-# sql_python
+# Connect to SQL Database in Python
